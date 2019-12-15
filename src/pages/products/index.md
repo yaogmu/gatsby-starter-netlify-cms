@@ -10,7 +10,7 @@ description: >-
   einem der größten Vereine in Lörzweiler. Heute kann man in den Sparten 
   Fußball Gymnastik/Turnen/Freizeitsport Sport betreiben und zwar in jedem
   Alter: vom Mutter-Kind Turnen bis zur Seniorengymnastik. Auch für Menschen mit
-  Bewegungsei
+  Bewegungseinschränkungen bietet der FC Lörzweiler eine spezielle Gymnastik an: die "Hocker-" oder Stuhlgymnastik.
 intro:
   blurbs:
     - image: /img/coffee.png
