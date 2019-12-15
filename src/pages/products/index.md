@@ -1,14 +1,16 @@
 ---
-templateKey: 'product-page'
-path: /products
-title: Our Coffee
+templateKey: product-page
+title: Verein
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Allgemeines
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Der FC Lörzweiler 1961 e. V. wurde am 6. Mai 1961 als Fußballverein gegründet
+  und am 18. Sept. 1980 unter der Nummer 14 VR 1901 in das Vereinsregister des
+  Amtsgerichts Mainz eingetragen. Über die Jahre entwickelte sich der FC zu
+  einem der größten Vereine in Lörzweiler. Heute kann man in den Sparten 
+  Fußball Gymnastik/Turnen/Freizeitsport Sport betreiben und zwar in jedem
+  Alter: vom Mutter-Kind Turnen bis zur Seniorengymnastik. Auch für Menschen mit
+  Bewegungsei
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -99,3 +101,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
