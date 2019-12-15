@@ -48,7 +48,7 @@ $ yarn
 $ netlify dev # or ntl dev
 ```
 
-This uses the new [Netlify Dev](https://www.netlify.com/products/dev/?utm_source=blog&utm_medium=netlifycms&utm_campaign=devex) CLI feature to serve any functions you have in the `lambda` folder.
+This uses the new [Netlify Dev](https://www.netlify.com/verein/dev/?utm_source=blog&utm_medium=netlifycms&utm_campaign=devex) CLI feature to serve any functions you have in the `lambda` folder.
 
 To test the CMS locally, you'll need run a production build of the site:
 
@@ -66,17 +66,17 @@ import CMS from 'netlify-cms-app'
 // import uploadcare from 'netlify-cms-media-library-uploadcare'
 // import cloudinary from 'netlify-cms-media-library-cloudinary'
 
-import AboutPagePreview from './preview-templates/AboutPagePreview'
+import FussballPagePreview from './preview-templates/FussballPagePreview'
 import BlogPostPreview from './preview-templates/BlogPostPreview'
-import ProductPagePreview from './preview-templates/ProductPagePreview'
+import VereinPagePreview from './preview-templates/VereinPagePreview'
 import IndexPagePreview from './preview-templates/IndexPagePreview'
 
 // CMS.registerMediaLibrary(uploadcare);
 // CMS.registerMediaLibrary(cloudinary);
 
 CMS.registerPreviewTemplate('index', IndexPagePreview)
-CMS.registerPreviewTemplate('about', AboutPagePreview)
-CMS.registerPreviewTemplate('products', ProductPagePreview)
+CMS.registerPreviewTemplate('fussball', FussballPagePreview)
+CMS.registerPreviewTemplate('verein', VereinPagePreview)
 CMS.registerPreviewTemplate('blog', BlogPostPreview)
 ```
 

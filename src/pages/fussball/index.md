@@ -1,6 +1,6 @@
 ---
-templateKey: 'about-page'
-path: /about
+templateKey: 'fussball-page'
+path: /fussball
 title: About our values
 ---
 ### Shade-grown coffee
